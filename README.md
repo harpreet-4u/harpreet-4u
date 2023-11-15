@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harpreet</h1>
 <h3 align="center">A passionate Student from India</h3>
-<img align="right" alt="Coding" width="400" src="">
+<!--<img align="right" alt="Coding" width="400" src=""> --> 
 
 - 📫 How to reach me **harpreetsaggu4u@gmail.com**
 
